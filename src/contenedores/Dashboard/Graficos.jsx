@@ -43,11 +43,11 @@ export default function Graficos() {
         </div>
       </div>
 
-      <div className='columna'>
+      {/* <div className='columna'>
         <div className='grafico-unico'>
           <Mapa/>
         </div>
-      </div>
+      </div> */}
 
       <div className='columna'>
         <div className='grafico-mediano'>
