@@ -32,7 +32,7 @@ const Mapa = () => {
 
       mapRef.current = map;
       
-      L.marker([23.634501, -102.552784]).addTo(map);
+      L.marker([6.4238, -66.5897]).addTo(map);
     }
   }, []);
 
